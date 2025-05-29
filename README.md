@@ -3,6 +3,8 @@
 ## AIM:
 
  To edit an image using an image editing software.
+ 
+
 
 ## EDITING
 
@@ -51,3 +53,10 @@
 
 
 ## OUTPUT:
+
+```
+Created By: Ashqar Ahamed S.T
+Register No: 212224240018
+```
+![POSTER](https://github.com/user-attachments/assets/0909e3e9-94b2-4b38-b963-d1a47875a8c5)
+
